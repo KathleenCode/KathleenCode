@@ -3,7 +3,8 @@
 - 👋 Hi, I’m Marie
 - ✨ You can call me Kate
 - 👋 Its a pleasure to meeet you
--🌱 A FEW THINGS ABOUT ME
+
+🌱 A FEW THINGS ABOUT ME
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on diverse projects
